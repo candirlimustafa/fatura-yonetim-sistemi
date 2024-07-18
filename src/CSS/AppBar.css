@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #207b85;
+    height: 80px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white; 
+    line-height: 80px; 
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    color: rgb(244, 244, 244);
+    line-height: 80px; 
+  }
+  
+  .nav-link:hover {
+    color: #84c2f0; 
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white; 
+  }
+  
